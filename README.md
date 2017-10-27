@@ -1,2 +1,3 @@
 # hello-github
 GitHubの機能を試すためのリポジトリだよ
+GitHubのプルリクエストの動作検証するよ
